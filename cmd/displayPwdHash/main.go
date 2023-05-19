@@ -1,3 +1,6 @@
+/* Cmd util for printing hash
+* Use: displayPwdHash <password>
+ */
 package main
 
 import (
